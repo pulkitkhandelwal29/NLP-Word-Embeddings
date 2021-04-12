@@ -1,6 +1,7 @@
 # Word Embedding Techniques
 <hr>
 
+## Preparing Word for Word Embedding
 ### Tokenization
 Helps to convert paragraphs to sentences or words
 
